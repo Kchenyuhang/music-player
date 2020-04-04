@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="285993e5-b63a-4391-87ac-879bab463c02" name="Default Changelist" comment="" />
+    <list default="true" id="285993e5-b63a-4391-87ac-879bab463c02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +52,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -61,19 +70,23 @@
     </option>
   </component>
   <component name="ProjectId" id="1a3djoJ5f885cbxFTtsxqqz7nwE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mapper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-learning" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
@@ -146,42 +159,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585968351124</updated>
-      <workItem from="1585968357882" duration="1057000" />
+      <workItem from="1585968357882" duration="1785000" />
+      <workItem from="1585994933381" duration="1413000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585968898894">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585968898894" />
-    <state x="389" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585968408536">
+    <state x="389" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585997334054">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="389" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.864@0.0.1536.864" timestamp="1585968408536" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1585968435970">
+    <state x="389" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.864@0.0.1536.864" timestamp="1585997334054" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1585996770097">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585968435970" />
-    <state width="1493" height="511" key="GridCell.Tab.0.bottom" timestamp="1585969546717">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585996770097" />
+    <state width="1493" height="511" key="GridCell.Tab.0.bottom" timestamp="1585971919524">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="511" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585969546717" />
-    <state width="1493" height="511" key="GridCell.Tab.0.center" timestamp="1585969546716">
+    <state width="1493" height="511" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585971919524" />
+    <state width="1493" height="511" key="GridCell.Tab.0.center" timestamp="1585971919524">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="511" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585969546716" />
-    <state width="1493" height="511" key="GridCell.Tab.0.left" timestamp="1585969546716">
+    <state width="1493" height="511" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585971919524" />
+    <state width="1493" height="511" key="GridCell.Tab.0.left" timestamp="1585971919523">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="511" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585969546716" />
-    <state width="1493" height="511" key="GridCell.Tab.0.right" timestamp="1585969546716">
+    <state width="1493" height="511" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585971919523" />
+    <state width="1493" height="511" key="GridCell.Tab.0.right" timestamp="1585971919524">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="511" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585969546716" />
+    <state width="1493" height="511" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585971919524" />
     <state x="148" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585968950440">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
