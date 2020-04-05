@@ -55,7 +55,7 @@
 
     <!-- 通过Mapper扫描器MapperScannerConfigurer，批量将 basePackage指定包中的接口全部生成Mapper动态代理对象 -->
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
-        <property name="basePackage" value="com.soft1851.music.mapper"/>
+        <property name="basePackage" value="com.soft1851.music.dao"/>
         <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory">
         </property>
     </bean>

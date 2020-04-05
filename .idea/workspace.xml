@@ -2,10 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="285993e5-b63a-4391-87ac-879bab463c02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/music_player_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_4_4_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_popper_js_1_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/config/SpringDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/config/WebApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/dao/MusicDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/dao/TypeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/dao/impl/MusicDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/dao/impl/TypeDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/entity/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/service/MusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/service/TypeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/service/impl/MusicServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/service/impl/TypeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/spider/MusicSpider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/util/ResponseObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/MusicMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/TypeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/soft1851/music/dao/TypeDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d8ef5cd8-7506-4407-9db0-cf45b6209d0c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d8ef5cd8-7506-4407-9db0-cf45b6209d0c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/config/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/entity/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/soft1851/music/service/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/soft1851/music/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/soft1851/music/mapper/UserMapperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/soft1851/music/dao/UserDaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/config/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/soft1851/music/service/TestService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mappers/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mappers/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring-mybatis.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/soft1851/music/mapper/UserMapperTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +107,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -86,63 +148,108 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-learning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/soft1851/music/config" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.soft1851.music.mapper" />
+      <recent name="com.soft1851.music.service.impl" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.soft1851.music.dao.impl" />
+      <recent name="com.soft1851.music.service.impl" />
+      <recent name="com.soft1851.music.mapper.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.soft1851.music.util" />
+      <recent name="com.soft1851.music.mapper" />
+      <recent name="com.soft1851.music.entity" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.soft1851.music.mapper" />
-      <recent name="com.soft1851.music.entity" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\SpringStudy\music-player\src\main\java\com\soft1851\music\config" />
       <recent name="D:\dev\SpringStudy\music-player\src\main\resources\mapper" />
       <recent name="D:\dev\SpringStudy\music-player\src\main\resources" />
       <recent name="D:\dev\SpringStudy\music-player\src\main\java\com\soft1851\music\util" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserMapperTest.emailLogin">
-    <configuration name="UserMapperTest.emailLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TypeDaoTest.selectAllType">
+    <configuration name="MusicSpider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.music.spider.MusicSpider" />
       <module name="music-player" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.music.mapper.*" />
+          <option name="PATTERN" value="com.soft1851.music.spider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.music.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.music.mapper.UserMapperTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeDaoTest.selectAllType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-player" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.music.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soft1851.music.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.music.dao.TypeDaoTest" />
+      <option name="METHOD_NAME" value="selectAllType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserDaoTest.emailLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="music-player" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soft1851.music.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.soft1851.music.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.music.dao.UserDaoTest" />
       <option name="METHOD_NAME" value="emailLogin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserMapperTest.phoneLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserDaoTest.phoneLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="music-player" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1851.music.mapper.*" />
+          <option name="PATTERN" value="com.soft1851.music.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.soft1851.music.mapper" />
-      <option name="MAIN_CLASS_NAME" value="com.soft1851.music.mapper.UserMapperTest" />
+      <option name="PACKAGE_NAME" value="com.soft1851.music.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.soft1851.music.dao.UserDaoTest" />
       <option name="METHOD_NAME" value="phoneLogin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.MusicSpider" />
+      <item itemvalue="JUnit.UserDaoTest.emailLogin" />
+      <item itemvalue="JUnit.UserDaoTest.phoneLogin" />
+      <item itemvalue="JUnit.TypeDaoTest.selectAllType" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserMapperTest.emailLogin" />
-        <item itemvalue="JUnit.UserMapperTest.phoneLogin" />
+        <item itemvalue="JUnit.TypeDaoTest.selectAllType" />
+        <item itemvalue="JUnit.UserDaoTest.phoneLogin" />
+        <item itemvalue="Application.MusicSpider" />
+        <item itemvalue="JUnit.UserDaoTest.emailLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +267,10 @@
       <option name="presentableId" value="Default" />
       <updated>1585968351124</updated>
       <workItem from="1585968357882" duration="1785000" />
-      <workItem from="1585994933381" duration="1678000" />
+      <workItem from="1585994933381" duration="3434000" />
+      <workItem from="1586007217695" duration="3256000" />
+      <workItem from="1586056246033" duration="1722000" />
+      <workItem from="1586058309734" duration="4671000" />
     </task>
     <task id="LOCAL-00001" summary="项目搭建">
       <created>1585997464065</created>
@@ -169,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585997464065</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pom.xml配置">
+      <created>1585997712066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585997712066</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,49 +295,70 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="项目搭建" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目搭建" />
+    <MESSAGE value="pom.xml配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom.xml配置" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585968898894">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586010466689">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585968898894" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1586010466689" />
+    <state x="109" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586008568489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="109" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1586008568489" />
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1586062411566">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1586062411566" />
     <state x="389" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585997334054">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="389" y="110" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.864@0.0.1536.864" timestamp="1585997334054" />
-    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1585997462716">
+    <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586062362698">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585997462716" />
-    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1585996770097">
+    <state x="417" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1586062362698" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586009793051">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585996770097" />
-    <state width="1493" height="511" key="GridCell.Tab.0.bottom" timestamp="1585971919524">
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1586009793051" />
+    <state x="372" y="24" key="CommitChangelistDialog2" timestamp="1585997710930">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="511" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585971919524" />
-    <state width="1493" height="511" key="GridCell.Tab.0.center" timestamp="1585971919524">
+    <state x="372" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585997710930" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1586058743626">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="511" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585971919524" />
-    <state width="1493" height="511" key="GridCell.Tab.0.left" timestamp="1585971919523">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586058743626" />
+    <state width="1493" height="431" key="GridCell.Tab.0.bottom" timestamp="1586064260103">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="511" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585971919523" />
-    <state width="1493" height="511" key="GridCell.Tab.0.right" timestamp="1585971919524">
+    <state width="1493" height="431" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586064260103" />
+    <state width="1493" height="431" key="GridCell.Tab.0.center" timestamp="1586064260102">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="511" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585971919524" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1585997470676">
+    <state width="1493" height="431" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586064260102" />
+    <state width="1493" height="431" key="GridCell.Tab.0.left" timestamp="1586064260102">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585997470676" />
-    <state x="148" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585968950440">
+    <state width="1493" height="431" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586064260102" />
+    <state width="1493" height="431" key="GridCell.Tab.0.right" timestamp="1586064260103">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="148" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1585968950440" />
+    <state width="1493" height="431" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586064260103" />
+    <state x="0" y="90" key="Maven.ArtifactSearchDialog" timestamp="1586009382974">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="90" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1586009382974" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1585997721944">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585997721944" />
+    <state x="148" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586058461277">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="148" y="135" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1586058461277" />
     <state x="449" y="115" key="spring file set editor" timestamp="1585969211418">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
