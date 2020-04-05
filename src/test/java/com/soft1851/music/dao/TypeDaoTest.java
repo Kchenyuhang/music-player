@@ -1,6 +1,7 @@
 package com.soft1851.music.dao;
 
 import com.soft1851.music.config.SpringDataSourceConfig;
+import com.soft1851.music.entity.MusicVo;
 import com.soft1851.music.entity.Type;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -27,5 +28,12 @@ public class TypeDaoTest {
     public void selectAllType() {
         List<Type> typeList = typeDao.selectAllType();
         typeList.forEach(System.out::println);
+    }
+
+    @Test
+    public void selectMusicByType() {
+        int typeId=1;
+        List<MusicVo> musicVos = typeDao.selectMusicByType(typeId);
+        musicVos.forEach(System.out::println);
     }
 }

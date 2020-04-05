@@ -23,7 +23,7 @@ public class MusicServiceImpl implements MusicService {
 
     @Override
     public List<Music> selectAll() {
-        return null;
+        return musicDao.selectAll();
     }
 
     @Override

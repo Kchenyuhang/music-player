@@ -23,6 +23,8 @@ public class WebApplicationConfig implements WebApplicationInitializer {
         ctx.register(WebMvcConfig.class);
         //设置servletContext
         ctx.setServletContext(servletContext);
+
+        ctx.scan("music.controller");
         //刷新
         ctx.refresh();
         //映射规则的配置

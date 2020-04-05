@@ -1,5 +1,6 @@
 package com.soft1851.music.dao;
 
+import com.soft1851.music.entity.MusicVo;
 import com.soft1851.music.entity.Type;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -17,4 +18,11 @@ public interface TypeDao {
      * @return List<Type>
      */
     List<Type> selectAllType();
+
+    /**
+     * 根据type查询音乐
+     * @return List<MusicVo>
+     * @param typeId
+     */
+    List<MusicVo> selectMusicByType(Integer typeId);
 }

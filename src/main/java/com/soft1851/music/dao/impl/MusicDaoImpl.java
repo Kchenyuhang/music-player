@@ -2,7 +2,9 @@ package com.soft1851.music.dao.impl;
 
 import com.soft1851.music.dao.MusicDao;
 import com.soft1851.music.entity.Music;
+import com.soft1851.music.entity.Type;
 import org.springframework.jdbc.core.BatchPreparedStatementSetter;
+import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
@@ -23,7 +25,8 @@ public class MusicDaoImpl implements MusicDao {
 
     @Override
     public List<Music> selectAll() {
-        return null;
+        String sql = "SELECT * FROM t_music";
+        return jdbcTemplate.query(sql, new BeanPropertyRowMapper<>(Music.class));
     }
 
     @Override
@@ -34,10 +37,10 @@ public class MusicDaoImpl implements MusicDao {
             @Override
             public void setValues(PreparedStatement preparedStatement, int i) throws SQLException {
                 Music song = songList.get(i);
-                preparedStatement.setString(1,song.getMusicName());
-                preparedStatement.setInt(2,song.getType());
-                preparedStatement.setString(3,song.getUrl());
-                preparedStatement.setString(4,song.getSinger());
+                preparedStatement.setString(1, song.getMusicName());
+                preparedStatement.setInt(2, song.getType());
+                preparedStatement.setString(3, song.getUrl());
+                preparedStatement.setString(4, song.getSinger());
             }
 
             @Override
@@ -46,4 +49,5 @@ public class MusicDaoImpl implements MusicDao {
             }
         });
     }
+
 }
